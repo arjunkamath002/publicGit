@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/Xf7DYL1hgg68KvLhXQetN/NVlMcRZBohCVQQgbwdgr/BlxEhlqWJGhjiqRulkbgDIRjpGcYTXpXshMLYouvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pooja\\source\\repos\\publicGit\\DevopsDemoSln\\DevopsDemo\\DevopsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pooja\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
